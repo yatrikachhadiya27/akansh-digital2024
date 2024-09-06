@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Akansh Digital	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Your Digital Marketing Partner</description>
+	<lastBuildDate>Thu, 01 Jun 2023 08:29:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		Comment on The evolution of live-stream content and short-form video: a look at the TikTok revolution by vamtam		</title>
+		<link>/the-evolution-of-live-stream-content-and-short-form-video-a-look-at-the-tiktok-revolution/#comment-5</link>
+
+		<dc:creator><![CDATA[vamtam]]></dc:creator>
+		<pubDate>Thu, 01 Jun 2023 08:29:17 +0000</pubDate>
+		<guid isPermaLink="false">https://numerique.vamtam.com/?p=1391#comment-5</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/the-evolution-of-live-stream-content-and-short-form-video-a-look-at-the-tiktok-revolution/#comment-4&quot;&gt;vamtam&lt;/a&gt;.
+
+As designers and developers venture into these new domains, carrying the principles of accessibility forward should be about more than just compliance with guidelines, but rather championing a spirit of inclusivity.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/the-evolution-of-live-stream-content-and-short-form-video-a-look-at-the-tiktok-revolution/#comment-4">vamtam</a>.</p>
+<p>As designers and developers venture into these new domains, carrying the principles of accessibility forward should be about more than just compliance with guidelines, but rather championing a spirit of inclusivity.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The evolution of live-stream content and short-form video: a look at the TikTok revolution by vamtam		</title>
+		<link>/the-evolution-of-live-stream-content-and-short-form-video-a-look-at-the-tiktok-revolution/#comment-4</link>
+
+		<dc:creator><![CDATA[vamtam]]></dc:creator>
+		<pubDate>Thu, 01 Jun 2023 08:29:09 +0000</pubDate>
+		<guid isPermaLink="false">https://numerique.vamtam.com/?p=1391#comment-4</guid>
+
+					<description><![CDATA[Strive to design environments with clarity in mind: Clear instructions, a logical layout, and control over the pace of interactions can all contribute to a more manageable cognitive load.]]></description>
+			<content:encoded><![CDATA[<p>Strive to design environments with clarity in mind: Clear instructions, a logical layout, and control over the pace of interactions can all contribute to a more manageable cognitive load.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
